@@ -5,7 +5,7 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 
 <br />
 
-## Technologiess 🔧 
+## Technologies
 
 ###### Programming Languages
 ![Python](https://img.shields.io/badge/python-v3.7-blue)

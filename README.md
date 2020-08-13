@@ -27,17 +27,17 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 <br />
 
 ### Book -> [The hundred-page Computer Vision OpenCV book](http://datahacker.rs/the-hundred-page-computer-vision-opencv-book-in-python/)
-<img src="http://media5.datahacker.rs/2020/05/10-768x1046.jpg" alt="Book" width="350"/>
+<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/10-768x1046.jpg" alt="Book" width="350"/>
 
 
 ## Other Work
-<img src="https://imgur.com/GveHyvN.jpg" alt="img1" width="600"/>
-<img src="https://i.imgur.com/xlGDhJp.jpg" alt="img1" width="600"/>
-<img src="https://i.imgur.com/FW4sv3k.jpg" alt="img1" width="600"/>
-<blockquote class="imgur-embed-pub" lang="en" data-id="Bd5y7oq"><a href="//imgur.com/Bd5y7oq"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<img src="https://i.imgur.com/Bd5y7oq.mp4" alt="img1" width="600"/>
+<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/st1-1024x567.jpg" alt="img1" width="600"/>
+<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/st2-1024x565.jpg" alt="img1" width="600"/>
+<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/Epipolar%20lines.jpg" alt="img1" width="600"/>
+<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/Epipolar%20lines.jpg" alt="img1" width="600"/>
+<img src="https://github.com/DavorJordacevic/DavorJordacevic/blob/master/thresholding.gif" alt="img1" width="600"/>
 <img src="https://i.imgur.com/RaH6QGu.jpg" alt="img1" width="600"/>
-
+<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/un-1024x424.jpg" alt="img1" width="600"/>
 <br />
 
 ## Contact me 📞 

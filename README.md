@@ -27,7 +27,7 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 <br />
 
 ### Book -> [The hundred-page Computer Vision OpenCV book](http://datahacker.rs/the-hundred-page-computer-vision-opencv-book-in-python/)
-<img src="http://media5.datahacker.rs/2020/05/10-768x1046.jpg" alt="Book" width="200"/>
+<img src="http://media5.datahacker.rs/2020/05/10-768x1046.jpg" alt="Book" width="350"/>
 
 <br />
 

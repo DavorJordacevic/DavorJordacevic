@@ -1,5 +1,8 @@
 ### Hi there, I'm Davor 👋
 
+## About me
+I am a Junior Data Scientist and Computer Vision Engineer. I started programming since elementary school, while on university I started working with Digital Signal Processing, Image Processing and Machine Learning. Beside that, I have two certificates in the field of databases.
+
 ## Contact me 📞 
 [![Linkedin Badge](https://img.shields.io/badge/-davorjordacevic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acvjetan/)](https://rs.linkedin.com/public-profile/in/davor-jorda%C4%8Devi%C4%87-899a34175?challengeId=AQG61DxdxBr5lQAAAXPp1FygP-mSP8Oexqofm0UVt4awtVGmUoJVwxXx4Tj-pRiLDHfbHXMT_xt2PjL7T-0SJwPrUaNHOy03ug&submissionId=13aed795-b4f2-2a16-5b06-60ab8c39d600)
 [![Gmail Badge](https://img.shields.io/badge/-davorjordacevic97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davorjordacevic97@gmail.com)](mailto:davorjordacevic97@gmail.com)
@@ -19,5 +22,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
 
-###### API
+###### More
+![TENSORFLOW](https://img.shields.io/badge/TensorFlow-2-orange)
 ![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)

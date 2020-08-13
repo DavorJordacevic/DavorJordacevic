@@ -24,5 +24,7 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 
 ###### More
 ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-2-orange)
-
+![KERAS](https://img.shields.io/badge/Keras-%20-red)
+![SKLEARN](https://img.shields.io/badge/scikit--learn-%20-blue)
+![OPENCV](https://img.shields.io/badge/OPENCV-4-green)
 ![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)

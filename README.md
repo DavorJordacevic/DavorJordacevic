@@ -34,7 +34,7 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 <img src="https://imgur.com/GveHyvN.jpg" alt="img1" width="600"/>
 <img src="https://i.imgur.com/xlGDhJp.jpg" alt="img1" width="600"/>
 <img src="https://i.imgur.com/FW4sv3k.jpg" alt="img1" width="600"/>
-<img src="https://i.imgur.com/YIEiZo4.mp4" alt="img1" width="600"/>
+<img src="https://gifyu.com/image/cq6n" alt="img1" width="600"/>
 <img src="https://i.imgur.com/Bd5y7oq.mp4" alt="img1" width="600"/>
 <img src="https://i.imgur.com/RaH6QGu.jpg" alt="img1" width="600"/>
 

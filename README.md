@@ -32,12 +32,12 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 
 ## Other Work
 <img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/st1-1024x567.jpg" alt="img1" width="600"/>
-<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/st2-1024x565.jpg" alt="img1" width="600"/>
-<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/Epipolar%20lines.jpg" alt="img1" width="600"/>
-<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/Epipolar%20lines.jpg" alt="img1" width="600"/>
-<img src="https://github.com/DavorJordacevic/DavorJordacevic/blob/master/thresholding.gif" alt="img1" width="600"/>
-<img src="https://i.imgur.com/RaH6QGu.jpg" alt="img1" width="600"/>
-<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/un-1024x424.jpg" alt="img1" width="600"/>
+<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/st2-1024x565.jpg" alt="img2" width="600"/>
+<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/Epipolar%20lines.jpg" alt="img3" width="600"/>
+<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/Epipolar%20lines.jpg" alt="img4" width="600"/>
+<img src="https://github.com/DavorJordacevic/DavorJordacevic/blob/master/thresholding.gif" alt="thresholding" width="600"/>
+<img src="https://github.com/DavorJordacevic/DavorJordacevic/blob/master/ezgif.com-optimize.gif" alt="depth" width="600"/>
+<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/un-1024x424.jpg" alt="img5" width="600"/>
 <br />
 
 ## Contact me 📞 

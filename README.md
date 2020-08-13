@@ -24,6 +24,10 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 ![OPENCV](https://img.shields.io/badge/OPENCV-4-green)
 ![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)
 
+<br />
+
+### Book -> [The hundred-page Computer Vision OpenCV book](http://datahacker.rs/the-hundred-page-computer-vision-opencv-book-in-python/)
+![Book](http://media5.datahacker.rs/2020/05/10-768x1046.jpg)
 
 <br />
 

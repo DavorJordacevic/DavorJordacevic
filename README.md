@@ -13,7 +13,7 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)
 
 ###### Database
-![MySQL](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-%20-blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
 

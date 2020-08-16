@@ -14,8 +14,8 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 
 ###### Database
 ![MySQL](https://img.shields.io/badge/MySQL-%20-blue)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-4-green)
 
 ###### More
 ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-2-orange)

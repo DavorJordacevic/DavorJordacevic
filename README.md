@@ -7,18 +7,15 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 
 ## Technologies
 
-###### Programming Languages
+##### Programming Languages
 
-####### Advanced
-
+###### Advanced
 ![Python](https://img.shields.io/badge/python-v3.7-blue)
 
-####### Working knowledge
-
+###### Working knowledge
 ![Go](https://img.shields.io/badge/Go-v1.12-blue)
 
-####### Beginner
-
+###### Beginner
 ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)
 
 ###### Database

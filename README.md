@@ -9,24 +9,9 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 
 ##### Programming Languages
 
-| Advanced | Working knowledge | Beginner | Database | More |
-|:-:|:-:|:-:|:-:|:-:|
-| ![Python](https://img.shields.io/badge/python-v3.7-blue) | ![Go](https://img.shields.io/badge/Go-v1.12-blue) | ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus) | ![MySQL](https://img.shields.io/badge/MySQL-%20-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-4-green) | ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-2-orange)
-![KERAS](https://img.shields.io/badge/Keras-2-red)
-![SKLEARN](https://img.shields.io/badge/scikit--learn-%20-blue)
-![OPENCV](https://img.shields.io/badge/OPENCV-4-green)
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791) |
-
-###### Advanced
-![Python](https://img.shields.io/badge/python-v3.7-blue)
-
-###### Working knowledge
-![Go](https://img.shields.io/badge/Go-v1.12-blue)
-
-###### Beginner
-![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)
+|Advanced|Working knowledge|Beginner|
+|:-:	|:-:	|:-:	|---	|---	|
+|  ![Python](https://img.shields.io/badge/python-v3.7-blue)	|  ![Go](https://img.shields.io/badge/Go-v1.12-blue)	|  ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)	|
 
 ###### Database
 ![MySQL](https://img.shields.io/badge/MySQL-%20-blue)

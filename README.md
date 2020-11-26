@@ -11,7 +11,7 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 
 |Advanced|Working knowledge|Beginner|
 |:-:	|:-:	|:-:	|
-|  ![Python](https://img.shields.io/badge/python-v3.7-blue)	|  ![Go](https://img.shields.io/badge/Go-v1.12-blue)	|  ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)	|
+|  ![Python](https://img.shields.io/badge/python-v3.9-blue)	|  ![Go](https://img.shields.io/badge/Go-v1.12-blue)	|  ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)	|
 
 ###### Database
 ![MySQL](https://img.shields.io/badge/MySQL-%20-blue)

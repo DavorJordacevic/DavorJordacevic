@@ -23,7 +23,7 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 ![KERAS](https://img.shields.io/badge/Keras-2-red)
 ![SKLEARN](https://img.shields.io/badge/scikit--learn-%20-blue)
 ![OPENCV](https://img.shields.io/badge/OPENCV-4-green)
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)
+![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=136001)
 
 <br />
 

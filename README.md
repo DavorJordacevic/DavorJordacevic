@@ -19,10 +19,11 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 ![MongoDB](https://img.shields.io/badge/MongoDB-4-green)
 
 ###### More
-![TENSORFLOW](https://img.shields.io/badge/TensorFlow-2-orange)
-![KERAS](https://img.shields.io/badge/Keras-2-red)
-![SKLEARN](https://img.shields.io/badge/scikit--learn-%20-blue)
-![OPENCV](https://img.shields.io/badge/OPENCV-4-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2-orange)
+![Keras](https://img.shields.io/badge/Keras-2-red)
+![PyTorch](https://img.shields.io/badge/PyTorch-%20-red)
+![SKLearn](https://img.shields.io/badge/scikit--learn-%20-blue)
+![OpenCV](https://img.shields.io/badge/OPENCV-4-green)
 ![RESTAPI](https://img.shields.io/badge/REST-API-green)
 
 <br />

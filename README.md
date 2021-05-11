@@ -1,7 +1,7 @@
 ### Hi there, I'm Davor 👋
 
 ## About me
-I am a Junior Data Scientist and Computer Vision Engineer. I started programming since elementary school, while on university I started working with Digital Signal Processing, Image Processing and Machine Learning. Beside that, I have two certificates in the field of databases.
+I am a Data Scientist and Computer Vision Engineer. I started programming since elementary school, while on university I started working with Digital Signal Processing, Image Processing and Machine Learning. Beside that, I have two certificates in the field of databases.
 
 <br />
 
@@ -19,9 +19,9 @@ I am a Junior Data Scientist and Computer Vision Engineer. I started programming
 ![MongoDB](https://img.shields.io/badge/MongoDB-4-green)
 
 ###### More
+![PyTorch](https://img.shields.io/badge/PyTorch-%20-red)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2-orange)
 ![Keras](https://img.shields.io/badge/Keras-2-red)
-![PyTorch](https://img.shields.io/badge/PyTorch-%20-red)
 ![SKLearn](https://img.shields.io/badge/scikit--learn-%20-blue)
 ![OpenCV](https://img.shields.io/badge/OPENCV-4-green)
 ![RESTAPI](https://img.shields.io/badge/REST-API-green)

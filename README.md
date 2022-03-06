@@ -29,22 +29,6 @@ I am a Data Scientist and Computer Vision Engineer. I started programming since 
 
 <br />
 
-<details>
-  <summary>More info</summary>
-
-### Book -> [The hundred-page Computer Vision OpenCV book](http://datahacker.rs/the-hundred-page-computer-vision-opencv-book-in-python/)
-<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/10-768x1046.jpg" alt="Book" width="350"/>
-
-
-## Other Work
-<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/st1-1024x567.jpg" alt="img1" width="600"/>
-<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/st2-1024x565.jpg" alt="img2" width="600"/>
-<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/Epipolar%20lines.jpg" alt="img3" width="600"/>
-<img src="https://github.com/DavorJordacevic/DavorJordacevic/blob/master/thresholding.gif" alt="thresholding" width="600"/>
-<img src="https://github.com/DavorJordacevic/DavorJordacevic/blob/master/ezgif.com-optimize.gif" alt="depth" width="600"/>
-<img src="https://raw.githubusercontent.com/DavorJordacevic/DavorJordacevic/master/un-1024x424.jpg" alt="img4" width="600"/>
-<br />
-
 ## Contact me 📞 
 [![Linkedin Badge](https://img.shields.io/badge/-davorjordacevic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acvjetan/)](https://rs.linkedin.com/public-profile/in/davor-jorda%C4%8Devi%C4%87-899a34175?challengeId=AQG61DxdxBr5lQAAAXPp1FygP-mSP8Oexqofm0UVt4awtVGmUoJVwxXx4Tj-pRiLDHfbHXMT_xt2PjL7T-0SJwPrUaNHOy03ug&submissionId=13aed795-b4f2-2a16-5b06-60ab8c39d600)
 [![Gmail Badge](https://img.shields.io/badge/-davorjordacevic97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davorjordacevic97@gmail.com)](mailto:davorjordacevic97@gmail.com)

@@ -17,6 +17,7 @@ I am a Data Scientist and Computer Vision Engineer at [Finbet](https://www.finbe
 
 ##### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-yellow)
+![Redis](https://img.shields.io/badge/Redis-%20-yellow)
 ![MySQL](https://img.shields.io/badge/MySQL-%20-yellow)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%20-yellow)
 ![Oracle](https://img.shields.io/badge/Oracle-%20-yellow)
@@ -28,6 +29,7 @@ I am a Data Scientist and Computer Vision Engineer at [Finbet](https://www.finbe
 ![MXNet](https://img.shields.io/badge/MXNet-%20-blue)
 ![SKLearn](https://img.shields.io/badge/scikit--learn-%20-blue)
 ![OpenCV](https://img.shields.io/badge/OPENCV-%20-green)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%20-green)
 ![RESTAPI](https://img.shields.io/badge/RESTAPI-%20-green)
 
 #### 🌱  I'm currently learning...

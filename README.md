@@ -20,7 +20,7 @@ I am a Data Scientist and Computer Vision Engineer at [Finbet](https://www.finbe
 
 ###### More
 ![PyTorch](https://img.shields.io/badge/PyTorch-%20-red)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2-red)
 ![Keras](https://img.shields.io/badge/Keras-%20-red)
 ![MXNet](https://img.shields.io/badge/MXNet-%20-blue)
 ![SKLearn](https://img.shields.io/badge/scikit--learn-%20-blue)

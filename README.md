@@ -11,21 +11,21 @@ I am a Data Scientist and Computer Vision Engineer. I started programming since 
 
 |Advanced|Working knowledge|Working knowledge|
 |:-:	|:-:	|:-:	|
-|  ![Python](https://img.shields.io/badge/python-v3.9-blue)	|  ![Go](https://img.shields.io/badge/Go-blue)	|  ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)	|
+|  ![Python](https://img.shields.io/badge/python-v3.9-blue)	|  ![Go](https://img.shields.io/badge/Go-%20-blue)	|  ![C++](https://img.shields.io/badge/C++-%20-blue.svg?style=flat&logo=cplusplus)	|
 
 ###### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-%20-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-%20-green)
 
 ###### More
 ![PyTorch](https://img.shields.io/badge/PyTorch-%20-red)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2-orange)
-![Keras](https://img.shields.io/badge/Keras-red)
+![Keras](https://img.shields.io/badge/Keras-%20-red)
 ![MXNet](https://img.shields.io/badge/MXNet-%20-blue)
 ![SKLearn](https://img.shields.io/badge/scikit--learn-%20-blue)
-![OpenCV](https://img.shields.io/badge/OPENCV-green)
-![RESTAPI](https://img.shields.io/badge/REST-API-green)
+![OpenCV](https://img.shields.io/badge/OPENCV-%20-green)
+![RESTAPI](https://img.shields.io/badge/RESTAPI-%20-green)
 
 <br />
 

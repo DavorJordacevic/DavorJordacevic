@@ -7,7 +7,7 @@ I am a Data Scientist and Computer Vision Engineer at [Finbet](https://www.finbe
 
 ## Technologies
 
-### 🔭  I’m currently working with ...
+#### 🔭  I’m currently working with ...
 
 ##### Programming Languages
 
@@ -29,7 +29,7 @@ I am a Data Scientist and Computer Vision Engineer at [Finbet](https://www.finbe
 ![OpenCV](https://img.shields.io/badge/OPENCV-%20-green)
 ![RESTAPI](https://img.shields.io/badge/RESTAPI-%20-green)
 
-### 🌱  I'm currently learning...
+#### 🌱  I'm currently learning...
 ![SEO](https://img.shields.io/badge/SEO-%20-lightgrey)
 ![Marketing](https://img.shields.io/badge/Marketing-%20-lightgrey)
 

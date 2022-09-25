@@ -19,6 +19,7 @@ I am a Data Scientist and Computer Vision Engineer at [Finbet](https://www.finbe
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-yellow)
 ![MySQL](https://img.shields.io/badge/MySQL-%20-yellow)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%20-yellow)
+![Oracle](https://img.shields.io/badge/Oracle-%20-yellow)
 
 ##### More
 ![PyTorch](https://img.shields.io/badge/PyTorch-%20-red)

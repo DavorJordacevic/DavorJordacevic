@@ -7,7 +7,7 @@ I am a Data Scientist and Computer Vision Engineer at [Finbet](https://www.finbe
 
 ## Technologies
 
-#### 🔭  I’m currently working with ...
+#### :hammer:  I’m currently working with ...
 
 ##### Programming Languages
 

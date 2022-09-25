@@ -13,12 +13,12 @@ I am a Data Scientist and Computer Vision Engineer at [Finbet](https://www.finbe
 |:-:	|:-:	|:-:	|
 |  ![Python](https://img.shields.io/badge/python-%20-blue)	|  ![Go](https://img.shields.io/badge/Go-%20-blue)	|  ![C++](https://img.shields.io/badge/C++-%20-blue.svg?style=flat&logo=cplusplus)	|
 
-###### Database
+##### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-yellow)
 ![MySQL](https://img.shields.io/badge/MySQL-%20-yellow)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%20-yellow)
 
-###### More
+##### More
 ![PyTorch](https://img.shields.io/badge/PyTorch-%20-red)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2-red)
 ![Keras](https://img.shields.io/badge/Keras-%20-red)

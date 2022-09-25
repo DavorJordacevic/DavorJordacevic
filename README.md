@@ -1,7 +1,7 @@
 ### Hi there, I'm Davor 👋
 
 ## About me
-I am a Data Scientist and Computer Vision Engineer. I started programming since elementary school, while on university I started working with Digital Signal Processing, Image Processing and Machine Learning. Beside that, I have two certificates in the field of databases.
+I am a Data Scientist and Computer Vision Engineer at ![Finbet](https://www.finbet.rs/#/home). I started programming since elementary school, while on university I started working with Digital Signal Processing, Image Processing and Machine Learning. Beside that, I have two certificates in the field of databases.
 
 <br />
 

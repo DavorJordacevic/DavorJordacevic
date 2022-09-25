@@ -14,8 +14,8 @@ I am a Data Scientist and Computer Vision Engineer. I started programming since 
 |  ![Python](https://img.shields.io/badge/python-v3.9-blue)	|  ![Go](https://img.shields.io/badge/Go-v1.12-blue)	|  ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)	|
 
 ###### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-%20-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4-green)
 
 ###### More

@@ -30,8 +30,8 @@ I am a Data Scientist and Computer Vision Engineer at [Finbet](https://www.finbe
 ![RESTAPI](https://img.shields.io/badge/RESTAPI-%20-green)
 
 ### 🌱  I'm currently learning...
-![SEO]([https://img.shields.io/badge/PyTorch-%20-red](https://img.shields.io/badge/SEO-%20-lightgrey))
-![Marketing]([https://img.shields.io/badge/PyTorch-%20-red](https://img.shields.io/badge/Marketing-%20-lightgrey))
+![SEO](https://img.shields.io/badge/SEO-%20-lightgrey)
+![Marketing](https://img.shields.io/badge/Marketing-%20-lightgrey)
 
 <br />
 

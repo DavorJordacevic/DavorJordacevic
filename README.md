@@ -2,7 +2,6 @@
 
 ## About me
 
-<img align="right" width="150" height="150" src="bit.ly_3GsR02k.png">
 I am a Data Scientist and Computer Vision Engineer at [Finbet](https://www.finbet.rs/#/home). I started programming since elementary school, while on university I started working with Digital Signal Processing, Image Processing, Machine Learning and Deep Learning. Beside that, I have two certificates in the field of databases. I have a B.Sc. in Electrical Engineering and Computing from Singidunum University and a M.Sc. in Data Science.
 
 <br />

@@ -40,7 +40,9 @@ I am a Data Scientist and Computer Vision Engineer at [Finbet](https://www.finbe
 
 <details><summary>My work</summary>
 <p>
+  
 ![My work](mywork.jpg)
+  
 </p>
 </details>
 

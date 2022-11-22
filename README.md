@@ -54,3 +54,7 @@ I am a Data Scientist and Computer Vision Engineer at <a href="https://www.finbe
 [![Gmail Badge](https://img.shields.io/badge/-davor.jordacevic.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davor.jordacevic.work@gmail.com)](mailto:davor.jordacevic.work@gmail.com)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/davorjord?style=social&label=Follow%20%40davorjord)](https://twitter.com/davorjord)
 </details>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>

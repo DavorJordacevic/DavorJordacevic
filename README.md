@@ -34,10 +34,6 @@ I am a Data Scientist and Computer Vision Engineer at <a href="https://www.finbe
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%20-green)
 ![RESTAPI](https://img.shields.io/badge/RESTAPI-%20-green)
 
-#### 🌱  I'm currently learning...
-![SEO](https://img.shields.io/badge/SEO-%20-lightgrey)
-![Marketing](https://img.shields.io/badge/Marketing-%20-lightgrey)
-
 <br />
 
 <details><summary>Some of my work</summary>

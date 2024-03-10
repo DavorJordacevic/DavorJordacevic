@@ -3,7 +3,11 @@
 ## About me
 
 <img align="right" width="140" height="140" src="bit.ly_3GsR02k.png">
-I am a Data Scientist and Computer Vision Engineer at <a href="https://www.finbet.rs/#/home">Finbet</a>. I started programming since elementary school, while on university I started working with Digital Signal Processing, Image Processing, Machine Learning and Deep Learning. Beside that, I have two certificates in the field of databases. I have a B.Sc. in Electrical Engineering and Computing from Singidunum University and a M.Sc. in Data Science.
+As a Computer Vision Engineer at Finbet doo, I work with Python, C++, Go, OpenCV, PyTorch, and PostgreSQL to develop and deploy innovative solutions for image and video analysis, object detection, and face recognition. I work with a cross-functional team of engineers, data scientists, and product managers to deliver high-quality products that meet the needs and expectations of our clients.
+
+I have a strong engineering background, with a Bachelor of Engineering in Electrical Engineering and Computing and a Master's degree in Data Science at Singidunum University. I have multiple certifications from Oracle in database design and programming, and I have previous experience as a Data Scientist at dataHacker.rs and a Oracle Database Developer at Joint stock company "Elektroprivreda Srbije".
+
+I am passionate about applying data science and computer vision to solve real-world problems and create value for businesses and society. I am always eager to learn new technologies and tools, and to collaborate with other professionals and experts in the field. I am motivated by challenges and opportunities to improve my skills and knowledge, and to contribute to the advancement of the domain.
 
 <br />
 

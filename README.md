@@ -24,18 +24,18 @@ I am passionate about applying data science and computer vision to solve real-wo
 ##### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-yellow)
 ![Redis](https://img.shields.io/badge/Redis-%20-yellow)
-![MySQL](https://img.shields.io/badge/MySQL-%20-yellow)
-![MongoDB](https://img.shields.io/badge/MongoDB-%20-yellow)
-![Oracle](https://img.shields.io/badge/Oracle-%20-yellow)
+
+##### Vector databases
+![Qdrant](https://img.shields.io/badge/Qdrant-%20-yellow)
+![HNSWLib](https://img.shields.io/badge/HNSWLib-%20-yellow)
 
 ##### More
 ![PyTorch](https://img.shields.io/badge/PyTorch-%20-red)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2-red)
-![Keras](https://img.shields.io/badge/Keras-%20-red)
 ![MXNet](https://img.shields.io/badge/MXNet-%20-blue)
 ![SKLearn](https://img.shields.io/badge/scikit--learn-%20-blue)
 ![OpenCV](https://img.shields.io/badge/OPENCV-%20-green)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%20-green)
+![ZeroMQ](https://img.shields.io/badge/ZeroMQ-%20-green)
 ![RESTAPI](https://img.shields.io/badge/RESTAPI-%20-green)
 
 <br />

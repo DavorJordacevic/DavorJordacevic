@@ -41,6 +41,7 @@ I am passionate about applying data science and computer vision to solve real-wo
 ##### 📜 Certifications
 - [From Engineer to Technical Manager: A Survival Guide](https://github.com/DavorJordacevic/DavorJordacevic/blob/master/UC-4d3601c8-57c8-4bce-8a63-049658d9f48c.pdf)
 - [Google Agile Essentials](https://github.com/DavorJordacevic/DavorJordacevic/blob/master/GoogleAgileEssentials_Badge20260202-32-4oegs8.pdf)
+- [Oracle Database for Developers]
 
 <br />
 

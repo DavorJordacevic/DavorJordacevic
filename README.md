@@ -3,9 +3,9 @@
 ## About me
 
 <img align="right" width="140" height="140" src="bit.ly_3GsR02k.png">
-As a Computer Vision Engineer, I work with Python, C++, Go, OpenCV, PyTorch, and PostgreSQL to develop and deploy innovative solutions for image and video analysis, object detection, and face recognition.
+As a Computer Vision Engineer, I work with Python, C++, Go, OpenCV, PyTorch, and PostgreSQL to develop and deploy innovative solutions for image and video analysis, object detection and tracking, face recognition and behavioural analysis.
 
-I have a strong engineering background, with a Bachelor of Engineering in Electrical Engineering and Computing and a Master's degree in Data Science at Singidunum University. I have multiple certifications from Oracle in database design and programming.
+I have a strong engineering background, with a Bachelor of Engineering in Electrical Engineering and Computing and a Master's degree in Data Science at Singidunum University. I have multiple certifications in database design, programming and leadership.
 
 I am passionate about applying data science and computer vision to solve real-world problems and create value for businesses and society. I am always eager to learn new technologies and tools, and to collaborate with other professionals and experts in the field. I am motivated by challenges and opportunities to improve my skills and knowledge, and to contribute to the advancement of the domain.
 
@@ -37,6 +37,10 @@ I am passionate about applying data science and computer vision to solve real-wo
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%20-green)
 ![ZeroMQ](https://img.shields.io/badge/ZeroMQ-%20-green)
 ![RESTAPI](https://img.shields.io/badge/RESTAPI-%20-green)
+
+## 📜 Certifications
+- [From Engineer to Technical Manager: A Survival Guide](https://github.com/DavorJordacevic/DavorJordacevic/blob/master/UC-4d3601c8-57c8-4bce-8a63-049658d9f48c.pdf)
+- [Google Agile Essentials](https://github.com/DavorJordacevic/DavorJordacevic/blob/master/GoogleAgileEssentials_Badge20260202-32-4oegs8.pdf)
 
 <br />
 

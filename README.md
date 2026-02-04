@@ -38,7 +38,7 @@ I am passionate about applying data science and computer vision to solve real-wo
 ![ZeroMQ](https://img.shields.io/badge/ZeroMQ-%20-green)
 ![RESTAPI](https://img.shields.io/badge/RESTAPI-%20-green)
 
-## 📜 Certifications
+##### 📜 Certifications
 - [From Engineer to Technical Manager: A Survival Guide](https://github.com/DavorJordacevic/DavorJordacevic/blob/master/UC-4d3601c8-57c8-4bce-8a63-049658d9f48c.pdf)
 - [Google Agile Essentials](https://github.com/DavorJordacevic/DavorJordacevic/blob/master/GoogleAgileEssentials_Badge20260202-32-4oegs8.pdf)
 

@@ -10,7 +10,7 @@
 
 **Computer Vision Engineer** specializing in intelligent video analytics, object detection, and facial recognition systems.
 
-- 🔭 Building production-ready CV solutions with **PyTorch**, **OpenCV**, and **C++**.
+- 🔭 Building production-ready CV solutions.
 - 🎓 **M.Sc. Data Science** | **B.Eng. Electrical Engineering & Computing**.
 - 🌱 Currently exploring **Transformer architectures** for vision tasks.
 - 💡 Passionate about real-time video processing and scalable ML systems.

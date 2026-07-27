@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Davor 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=Computer+Vision+Engineer;AI+%26+Deep+Learning+Specialist;Python+%7C+C%2B%2B+%7C+Go+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=Computer+Vision+Engineer;AI+%26+Deep+Learning+Specialist;[...]
+" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +16,7 @@
 - 🌱 Currently exploring **Transformer architectures** for vision tasks.
 - 💡 Passionate about real-time video processing and scalable ML systems.
 - 🚀 Experienced in deploying models from research to production.
-- I wrote **["The Hundred Page Computer Vision & OpenCV Book in Python"](https://datahacker.rs/the-hundred-page-computer-vision-opencv-book-in-python/)** as a hobby project to share my knowledge and passion for computer vision.
+- I wrote **["The Hundred Page Computer Vision & OpenCV Book in Python"](https://datahacker.rs/the-hundred-page-computer-vision-opencv-book-in-python/)** as a hobby project to share my knowledge a[...]
   
 ---
 
@@ -36,6 +37,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/MXNet-3776AB?style=for-the-badge" alt="MXNet"/>
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="TensorRT"/>
 </p>
 
 ### 🗄️ Databases & Storage

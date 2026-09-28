@@ -13,7 +13,6 @@
 
 - 🔭 Building production-ready CV solutions.
 - 🎓 **M.Sc. Data Science** | **B.Eng. Electrical Engineering & Computing**.
-- 🌱 Currently exploring **Transformer architectures** for vision tasks.
 - 💡 Passionate about real-time video processing and scalable ML systems.
 - 🚀 Experienced in deploying models from research to production.
 - I wrote **["The Hundred Page Computer Vision & OpenCV Book in Python"](https://datahacker.rs/the-hundred-page-computer-vision-opencv-book-in-python/)** as a hobby project to share my knowledge a[...]

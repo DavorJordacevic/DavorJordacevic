@@ -1,10 +1,5 @@
 <h1 align="center">Hi there, I'm Davor 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=Computer+Vision+Engineer;AI+%26+Deep+Learning+Specialist;[...]
-" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
